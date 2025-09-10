@@ -1,0 +1,8 @@
+dataset/*
+!dataset/.gitkeep
+training/*
+!training/.gitkeep
+uploads/*
+!uploads/.gitkeep
+models/*
+!models/.gitkeep
